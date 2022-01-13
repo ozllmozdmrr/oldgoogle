@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+
+}
+
+.search {
+    background-color: rgb(228, 224, 224);
+} 
+
+.bx-one {
+    width: 32%;
+    height: 76px;
+    background-color: #AEFEFF;
+    float: left;
+    margin: 2px;
+    text-align: center; 
+    font-size: 19px;
+ 
+    
+}
+
+.bx-two {
+    width: 25%;
+    height: 76px;
+    background-color:lightskyblue;
+    float: left;
+    margin: 2px;
+    text-align: center;
+    
+    
+    
+}
+
+.bx-three {
+    width: 42%;
+    height:76px;
+    background-color:#4FBDBA;
+    float: left;
+    margin: 2px 0 ;
+    text-align: center;
+    font-size: 13px;
+}
+
+.footer{
+    width: 100%;
+    height: 50px;
+    float: left;
+    margin: 2px 0;
+    text-align: center;
+}
